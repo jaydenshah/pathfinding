@@ -1,6 +1,7 @@
-Python implementation of dijkstra's algorithm using pygame
+# Pathfinding
+This is a Python implementation of dijkstra's algorithm using pygame.
 
-Controls
+## Controls
 
 Left click to create walls
 
